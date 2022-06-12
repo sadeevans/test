@@ -3,5 +3,10 @@ body {
 }
 
 surname {
+  color: azure;
   color: blue;
+}
+
+div {
+background: red;
 }
